@@ -17,10 +17,10 @@ Tight Coupling: Previously, the fetching, parsing, and processing logic was all 
 ## Project Structure
 The repository is divided into two main directories:
 
-JavaScript Implementation: Located in the `js/` folder.
+JavaScript Implementation: Located in the `js/` folder. \
 Java Implementation: Located in the `java/` folder.
 
-Each implementation to fix is located in `v_0` folder.
+Each implementation to fix is located in `v_0` folder. \
 Proposal implementation of task solution is located in `v_1` folder.
 
 ## Tech Stack
